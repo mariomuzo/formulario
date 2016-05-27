@@ -6,10 +6,6 @@
 
 package ejercicio1;
 
-/**
- *
- * @author pc
- */
 public class Productos {
-    
+   //HOLA 
 }
