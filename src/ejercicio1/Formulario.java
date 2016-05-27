@@ -11,7 +11,7 @@ package ejercicio1;
  * @author pc
  */
 public class Formulario extends javax.swing.JFrame {
-
+    String nombres = "";
     /**
      * Creates new form Formulario
      */
