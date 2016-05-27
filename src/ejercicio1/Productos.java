@@ -13,6 +13,7 @@ public class Productos {
  public int existencia;
 
     public Productos() {
+        
     }
 
     public Productos(String nombre, String marca, Double precio, int existencia) {
